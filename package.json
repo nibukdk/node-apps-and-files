@@ -1,0 +1,19 @@
+{
+  "name": "ver1",
+  "version": "1.0.0",
+  "description": "Practice Node App",
+  "main": "app.js",
+  "scripts": {
+    "test": "npm start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nibukdk/node-apps-and-files.git"
+  },
+  "author": "Nibesh Khadka",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nibukdk/node-apps-and-files/issues"
+  },
+  "homepage": "https://github.com/nibukdk/node-apps-and-files#readme"
+}
