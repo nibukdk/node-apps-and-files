@@ -4,7 +4,8 @@
   "description": "Practice Node App",
   "main": "app.js",
   "scripts": {
-    "test": "npm start"
+    "test": "Test",
+    "start": "nodemon app.js"
   },
   "repository": {
     "type": "git",
@@ -15,5 +16,11 @@
   "bugs": {
     "url": "https://github.com/nibukdk/node-apps-and-files/issues"
   },
-  "homepage": "https://github.com/nibukdk/node-apps-and-files#readme"
+  "homepage": "https://github.com/nibukdk/node-apps-and-files#readme",
+  "devDependencies": {
+    "nodemon": "^1.18.8"
+  },
+  "dependencies": {
+    "express": "^4.16.4"
+  }
 }
